@@ -1,0 +1,14 @@
+{
+  "name": "compliment-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tiny API that returns one random compliment as plain text for StreamElements",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "NODE_ENV=development node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
