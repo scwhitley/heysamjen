@@ -30,6 +30,7 @@ export const COMPLIMENTS = [
   "You are a candle in the darkness.",
   "You may dance like no one is watching, but everyone is watching because you are mesmerizing.",
   "You are better than stars because I can see you all the time.",
-  "You are the song in my head I dance to."
+  "You are the song in my head I dance to.",
+  "You are an amazing beautiful soul. Just like D4rth Distortion!"
 ];
 
